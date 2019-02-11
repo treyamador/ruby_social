@@ -6,5 +6,4 @@ class UsersControllerTest < ActionDispatch::IntegrationTest
     # assert_select "title", "Sign up | #{@base_title}"
     assert_response :success
   end
-
 end
