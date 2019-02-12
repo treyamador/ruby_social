@@ -28,6 +28,13 @@ gem 'bootstrap-sass'
 # bcrypt for password encryption
 gem 'bcrypt'
 
+# add fake users
+gem 'faker'
+
+# paginate user results
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
