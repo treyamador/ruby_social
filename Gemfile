@@ -35,6 +35,11 @@ gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 
+# image upload gems
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
